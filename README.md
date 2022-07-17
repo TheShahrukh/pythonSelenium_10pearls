@@ -23,6 +23,8 @@ First Case :
 Opens URL -> Asserts URL is opened (Through Title)
 Logins with correct credentials
 Verifies login through updated URL (Asserts)
+
+
 Second Case :
 
 Opens URL -> Asserts URL is opened (Through Title)
