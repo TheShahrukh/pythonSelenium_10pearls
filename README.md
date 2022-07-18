@@ -1,4 +1,4 @@
-== NOTE: Please switch to main branch for the code ====
+== NOTE: Please switch to master branch for the code ====
 
 == Project Info =======
 
